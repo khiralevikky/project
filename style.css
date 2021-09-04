@@ -1,0 +1,74 @@
+     .bodysub{
+        background-image: url('image/home.jpeg');
+        background-repeat: no-repeat;
+        background-size: 1570px 750px;
+        margin-top: 50px;
+    }
+    .body{
+        background-image: url('image/header.jpg');
+        background-repeat: no-repeat;
+        background-size: 1570px 2550px;
+        margin-top: 50px;
+    }
+  .head{
+        background-color: rgb(255, 222, 173);
+        margin: auto;
+        width: 30%;
+        border: 3px solid black;
+        padding: 20px;
+        
+        }
+        
+   .header{
+        background-color: maroon;
+        color:white;
+        padding:1px;
+        border-radius: 25px 25px ; 
+        }
+   .button {
+        background-color: maroon; /* Green */
+        border: none;
+        color: white;
+        padding: 10px 22px;
+        font-size: 16px;border-radius: 20px 20px ; 
+        }
+
+
+     .card{
+        	background-color: rgb(255, 222, 173);
+        	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+        	   height: 170px;
+               width: 76%;
+               float: left;
+               margin-left:120px;
+               border-radius: 25px 25px;
+        }
+     .cardhead{
+              background-color: maroon;
+              color:white;
+              padding: 1px;
+              border-radius: 25px 25px;   
+            }
+
+      .cardbody{
+               margin-left:50px;
+              margin-top: 10px;
+        }
+     button {
+              background-color: maroon; /* Green */
+              border: none;
+              color: white;
+              padding: 7px 20px;
+              font-size: 16px;border-radius: 20px 20px ; 
+              cursor: pointer;
+          }
+     .card1{
+        	background-color: rgb(255, 222, 173);
+        	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+            width:40%;
+            height:250px;
+            /*text-align: center;*/
+            font-family: arial; 
+            float: left;
+             margin-left:20px;border-radius: 25px 25px ; 
+        }
